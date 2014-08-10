@@ -1,0 +1,197 @@
+2014-08-10 17:32:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/css/cake.generic.css
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 17:32:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/img/cake.power.gif
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 17:35:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/css/cake.generic.css
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 17:35:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/img/cake.power.gif
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 17:35:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/css/cake.generic.css
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 17:35:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/img/cake.power.gif
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 17:36:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/css/cake.generic.css
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 17:36:13 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/img/cake.power.gif
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 17:37:45 Error: [MissingControllerException] Controller class VolumetricController could not be found.
+Exception Attributes: array (
+  'class' => 'VolumetricController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/index.php/volumetric/
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 13:38:20 Error: [MissingControllerException] Controller class VolumetricController could not be found.
+Exception Attributes: array (
+  'class' => 'VolumetricController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/index.php/volumetric/
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 13:39:02 Error: [MissingControllerException] Controller class VolumetricController could not be found.
+Exception Attributes: array (
+  'class' => 'VolumetricController',
+  'plugin' => NULL,
+)
+Request URL: /volumetric/index.php/volumetric/
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#2 {main}
+2014-08-10 13:39:46 Error: [MissingActionException] Action VolumetricController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'VolumetricController',
+  'action' => 'index',
+)
+Request URL: /volumetric/index.php/volumetric/
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(VolumetricController), Object(CakeRequest))
+#2 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#4 {main}
+2014-08-10 13:40:02 Error: [MissingViewException] View file "/home/ehansen/public_html/asdev.com/public/volumetric/app/View/Volumetric/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/home/ehansen/public_html/asdev.com/public/volumetric/app/View/Volumetric/index.ctp',
+)
+Request URL: /volumetric/index.php/volumetric/
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(VolumetricController), Object(CakeRequest))
+#4 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#6 {main}
+2014-08-10 13:47:56 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'user\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /volumetric/index.php/volumetric/
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Model.php(3498): ConnectionManager::getDataSource('default')
+#3 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Model.php(1136): Model->setDataSource('default')
+#4 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Model.php(3525): Model->setSource('volumetrics')
+#5 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Model.php(1365): Model->getDataSource()
+#6 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#7 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/Helper/FormHelper.php(468): FormHelper->_introspectModel('Volumetric', 'fields')
+#8 /home/ehansen/public_html/asdev.com/public/volumetric/app/View/Volumetric/index.ctp(2): FormHelper->create()
+#9 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/View.php(948): include('/home/ehansen/p...')
+#10 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/View.php(910): View->_evaluate('/home/ehansen/p...', Array)
+#11 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/View.php(471): View->_render('/home/ehansen/p...')
+#12 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#13 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#14 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(VolumetricController), Object(CakeRequest))
+#15 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#17 {main}
+2014-08-10 13:48:01 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'user\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /volumetric/index.php/volumetric/
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Model.php(3498): ConnectionManager::getDataSource('default')
+#3 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Model.php(1136): Model->setDataSource('default')
+#4 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Model.php(3525): Model->setSource('volumetrics')
+#5 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Model/Model.php(1365): Model->getDataSource()
+#6 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#7 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/Helper/FormHelper.php(468): FormHelper->_introspectModel('Volumetric', 'fields')
+#8 /home/ehansen/public_html/asdev.com/public/volumetric/app/View/Volumetric/index.ctp(2): FormHelper->create()
+#9 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/View.php(948): include('/home/ehansen/p...')
+#10 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/View.php(910): View->_evaluate('/home/ehansen/p...', Array)
+#11 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/View/View.php(471): View->_render('/home/ehansen/p...')
+#12 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#13 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#14 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(VolumetricController), Object(CakeRequest))
+#15 /home/ehansen/public_html/asdev.com/public/volumetric/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 /home/ehansen/public_html/asdev.com/public/volumetric/index.php(41): require('/home/ehansen/p...')
+#17 {main}
+2014-08-10 13:58:35 Error: Fatal Error (1): Call to undefined function float() in [/home/ehansen/public_html/asdev.com/public/volumetric/app/Controller/VolumetricController.php, line 14]
+2014-08-10 13:58:35 Error: [FatalErrorException] Call to undefined function float()
+Request URL: /volumetric/index.php/volumetric/
+Stack Trace:
+#0 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/ehansen/p...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/ehansen/p...', 14, Array)
+#2 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/ehansen/p...', 14, Array)
+#3 /home/ehansen/public_html/asdev.com/public/volumetric/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
